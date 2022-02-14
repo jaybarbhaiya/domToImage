@@ -1,0 +1,7 @@
+#content {
+	margin: 1rem;
+	background-color: red;
+	width: 300px;
+	height: 300px;
+	border: 2px dotted blue;
+}
